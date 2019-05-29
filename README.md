@@ -1,17 +1,19 @@
 # Reverse Each Word
 
-## Objectives
+## Learning Goals
 
-1. Understand the return value of the each method
-2. Use the .collect method
-3. Understand the return value of the .collect method
-4. Use the return of collect for further operation
+- Understand the return value of the each method
+- Use the .collect method
+- Understand the return value of the .collect method
+- Use the return of collect for further operation
 
 ## Instructions
 
-Write a method called `reverse_each_word` that takes in a string argument of a sentence and returns that same sentence with each word reversed in place.
+Write a method called `reverse_each_word` that takes in a string argument of a
+sentence and returns that same sentence with each word reversed in place.
 
-First solve it using `.each` Then utilize the same method using `.collect` to see the difference.
+First solve it using `.each` Then utilize the same method using `.collect` to
+see the difference.
 
 For example:
 
