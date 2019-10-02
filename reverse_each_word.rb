@@ -3,4 +3,3 @@ def reverse_each_word(string)
   split_string.each { |item| item.reverse}
  end
   puts split_string.join()
-end
